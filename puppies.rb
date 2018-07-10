@@ -35,7 +35,7 @@ def some_puppies
   puts "get back on your puppy restriction"
 end
 end
-some_puppies(1, 2)
+some_puppies
 
   
 
