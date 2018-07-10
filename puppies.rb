@@ -16,7 +16,7 @@ def less_puppies
   x = 2
   if x > 3 
     puts "Good Job"
-    elsif x = 3
+    elsif x == 3
     puts "slow down"
     elsif x > 3
     puts "get back on your animal restriction"
