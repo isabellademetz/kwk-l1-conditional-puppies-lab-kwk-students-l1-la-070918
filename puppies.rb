@@ -3,9 +3,9 @@
 def no_puppies
   x = 1
   if x > 0
-    puts "no more puppies!"
+    puts "No more puppies!"
   else
-    puts "Well done, Rachel"
+    puts "Well done, Rachel!"
   end
 end
 no_puppies
@@ -15,7 +15,7 @@ no_puppies
 def less_puppies
   x = 2
   if x > 3 
-    puts "Good Job"
+    puts "good job"
     elsif x == 3
     puts "slow down"
     elsif x > 3
